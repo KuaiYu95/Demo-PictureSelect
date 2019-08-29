@@ -1,3 +1,7 @@
+# demo 预览
+[https://kuaiyu95.github.io/PictureSelect/build/#](https://kuaiyu95.github.io/PictureSelect/build/#)
+
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
