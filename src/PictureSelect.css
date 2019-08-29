@@ -1,0 +1,18 @@
+.pictures {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.container {
+  position: relative;
+  width: 120px;
+  height: 150px;
+}
+.cb {
+  position: absolute;
+}
+.info {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
